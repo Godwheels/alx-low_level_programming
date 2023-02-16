@@ -3,7 +3,7 @@
 /**
  * main - to make the command puts work
  *
- * Return:  appear 0 after every succesful command
+ * Return: appear 0 after every succesful command
  */
 
 int main(void)
