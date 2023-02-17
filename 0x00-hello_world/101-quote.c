@@ -3,7 +3,6 @@
 
 /**
 * main - entry point
-*
 * Return: 1 upon sucess
 */
 
