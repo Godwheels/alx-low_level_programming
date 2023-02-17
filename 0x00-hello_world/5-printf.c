@@ -2,10 +2,11 @@
 
 
 /**
- * main - to mkake the printf command function
+ * main - to make the command printf functional
  *
- * Return: after every succesful command return 0
+ * Return: always return 0
  */
+
 
 int main(void)
 {
